@@ -8,6 +8,7 @@ If you wish to add your site to the list, then read on!
 
 ### 1. Prerequisites
 
+* Your site must be accessible via a domain with a `.report` TLD.
 * Your site must be functional and somewhat polished.
 * Your site must offer a service, info, data, or similar; relating to Destiny.
 * Your site must be original work.
