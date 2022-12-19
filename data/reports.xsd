@@ -3,7 +3,7 @@
     <xs:complexType name="report">
         <xs:sequence>
 
-            <xs:element name="host" type="xs:string">
+            <xs:element name="host">
                 <xs:simpleType>
                     <xs:restriction base="xs:string">
                         <xs:minLength value="1"/>
