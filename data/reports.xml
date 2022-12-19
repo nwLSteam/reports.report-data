@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="reports.xsd">
+    <reports>
+        <report>
+            <host>crucible</host>
+            <description>
+                Offers a useful and pretty way to look up achievements in Destiny 2's Crucible.
+            </description>
+        </report>
+        <report>
+            <host>destiny</host>
+            <description>
+                Historical archive of Destiny 2 API database updates and exactly what's added and changed.
+            </description>
+        </report>
+        <report>
+            <host>dungeon</host>
+            <description>
+                A summary of dungeon statistics for Destiny. Look up raid clears, speedruns, and sherpas.
+            </description>
+        </report>
+        <report>
+            <host>grandmaster</host>
+            <description>
+                Get insights about your and anyone's performance in Destiny 2's Nightfall: The Ordeal strikes
+                on Grandmaster difficulty.
+            </description>
+        </report>
+        <report>
+            <host>guardian</host>
+            <description>
+                A lookup-service for opponents and (potential) teammates, no matter the gamemode.
+            </description>
+        </report>
+        <report>
+            <host>member</host>
+            <description>
+                Displays clan statistics in tables and charts.
+            </description>
+        </report>
+        <report>
+            <host>nightfall</host>
+            <description>
+                Shows information about Nightfalls and offers leaderboards and stats to players.
+            </description>
+        </report>
+        <report>
+            <host>parallel</host>
+            <description>
+                Covers Guardians who contributed to Destiny 2 in a meaningful way, and have received the Parallel
+                Program emblem.
+            </description>
+        </report>
+        <report>
+            <host>quicksilver</host>
+            <description>
+                Tracks time since the last Quicksilver Storm bug.
+            </description>
+        </report>
+        <report>
+            <host>raid</host>
+            <description>
+                A summary of Raid statistics for Destiny. Look up raid clears, speedruns, and sherpas.
+            </description>
+        </report>
+        <report>
+            <host>reports</host>
+            <description>
+                A list of all Destiny-related .report domains.
+            </description>
+        </report>
+        <report>
+            <host>telesto</host>
+            <description>
+                Tracks time since the last Telesto bug.
+            </description>
+        </report>
+        <report>
+            <host>trials</host>
+            <description>
+                A companion for Destiny's Trials of Osiris. Look up everything on your opponents or yourself.
+            </description>
+        </report>
+        <report>
+            <host>triumph</host>
+            <description>
+                Ranks players based on their Triumph score, and offers a visually stimulating view of their personal
+                in-game achievements.
+            </description>
+        </report>
+        <report>
+            <host>twab</host>
+            <stylized_name>TWAB</stylized_name>
+            <description>
+                Displays a link to the latest TWAB and offers notifications for new TWAB releases.
+            </description>
+        </report>
+    </reports>
+</data>

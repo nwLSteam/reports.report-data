@@ -1,0 +1,15 @@
+name: validate
+run-name: Validating ${{ github.ref }}
+on: [ pull_request, push ]
+jobs:
+    check-bats-version:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v3
+            -   uses: actions/setup-node@v3
+                with:
+                    node-version: '14'
+            -   uses: netfiredotnet/validate-xsd@v1
+                with:
+                    xmlpath: "data/reports.xml"
+                    xsdpath: "data/reports.xsd"
