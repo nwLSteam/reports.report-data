@@ -100,7 +100,7 @@
             <host>seal</host>
             <stylized_name>Seal</stylized_name>
             <description>
-                Shows Seal Information and related Triumph data for a given Player
+                Shows Seal information and related Triumph data for a given player.
             </description>
         </report>
     </reports>
