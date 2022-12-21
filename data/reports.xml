@@ -96,5 +96,12 @@
                 Displays a link to the latest TWAB and offers notifications for new TWAB releases.
             </description>
         </report>
+        <report>
+            <host>seal</host>
+            <stylized_name>Seal</stylized_name>
+            <description>
+                Shows Seal information and related Triumph data for a given player.
+            </description>
+        </report>
     </reports>
 </data>
