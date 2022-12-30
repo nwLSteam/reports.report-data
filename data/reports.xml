@@ -103,5 +103,11 @@
                 Shows Seal information and related Triumph data for a given player.
             </description>
         </report>
+        <report>
+            <host>system</host>
+            <description>
+                Shows which Bungie API systems are currently en- and disabled.
+            </description>
+        </report>
     </reports>
 </data>
