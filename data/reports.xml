@@ -98,7 +98,6 @@
         </report>
         <report>
             <host>seal</host>
-            <stylized_name>Seal</stylized_name>
             <description>
                 Shows Seal information and related Triumph data for a given player.
             </description>
@@ -106,7 +105,7 @@
         <report>
             <host>system</host>
             <description>
-                Shows which Bungie API systems are currently en- and disabled.
+                Shows which Bungie API systems are currently en- or disabled.
             </description>
         </report>
     </reports>
