@@ -108,5 +108,9 @@
                 Shows which Bungie API systems are currently en- or disabled.
             </description>
         </report>
+        <report>
+            <host>gm</host>
+            <stylized_name>GM</stylized_name>
+        </report>
     </reports>
 </data>
