@@ -111,6 +111,9 @@
         <report>
             <host>gm</host>
             <stylized_name>GM</stylized_name>
+            <description>
+                Shows info about upcoming Grandmaster Nightfalls and offers GM leaderboards for past seasons.
+            </description>
         </report>
     </reports>
 </data>
