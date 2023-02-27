@@ -3,6 +3,12 @@
       xsi:noNamespaceSchemaLocation="reports.xsd">
     <reports>
         <report>
+            <host>crimson</host>
+            <description>
+                Compare what expansions, seasons and dungeon keys players have to their account on Destiny 2.
+            </description>
+        </report>
+        <report>
             <host>crucible</host>
             <description>
                 Offers a useful and pretty way to look up achievements in Destiny 2's Crucible.
