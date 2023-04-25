@@ -121,5 +121,12 @@
                 Shows info about upcoming Grandmaster Nightfalls and offers GM leaderboards for past seasons.
             </description>
         </report>
+        <report>
+            <host>d2rotations</host>
+            <stylized_name>d2Rotations</stylized_name>
+            <description>
+                Shows various weekly and daily rotations including lost sectors, nightfalls, raid and dungeon rotators, and more.
+            </description>
+        </report>
     </reports>
 </data>
