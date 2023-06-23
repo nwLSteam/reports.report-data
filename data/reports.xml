@@ -96,10 +96,10 @@
             </description>
         </report>
         <report>
-            <host>twab</host>
-            <stylized_name>TWAB</stylized_name>
+            <host>twid</host>
+            <stylized_name>TWID</stylized_name>
             <description>
-                Displays a link to the latest TWAB and offers notifications for new TWAB releases.
+                Displays a link to the latest TWID and offers notifications for new TWID releases.
             </description>
         </report>
         <report>
@@ -126,6 +126,19 @@
             <stylized_name>d2Rotations</stylized_name>
             <description>
                 Shows various weekly and daily rotations including lost sectors, nightfalls, raid and dungeon rotators, and more.
+            </description>
+        </report>
+        <report>
+            <host>emblem</host>
+            <description>
+                Shows stats on emblem distribution among players.
+            </description>
+        </report>
+        <report>
+            <host>lost-sector</host>
+            <stylized_name>Lost-Sector</stylized_name>
+            <description>
+                Shows stats on Lost Sectors, including top loadouts and player statistics.
             </description>
         </report>
     </reports>
