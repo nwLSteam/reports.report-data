@@ -17,14 +17,15 @@ If you wish to add your site to the list, then read on!
 
 The data is in XML format. Every site is a `<report>` element. Every `<report>` element contains:
 
-* `<host>`: This is your host part - if your website was `foobar.reports`, then the element would
+* `<host>`: This is your host part - if your website is `foobar.report`, then the element will
   be `<host>foobar</host>`.
 * `<description>`: A short description of your page.
     * Must be less than 300 characters.
     * This is not an advertising space, therefore, keep it cool with the superlatives. Instead of "The ultimate guide to
       Crucible stats with the best visuals", try "A visual guide to Crucible stats".
-* optional: `<stylized_name>`: In case your capitalization (!) is different from Start Case, you can use a stylized
-  name.
+* *optional*: `<stylized_name>`: The site renders all hosts in Start Case automatically. So if you e.g. just want the
+  first letter to be a capital letter (as is usually the case), you don't need this. For all other changes in
+  capitalization, you can use this option.
     * For example, `twab.report` should not be displayed as `Twab.Report`, so we
       use `<stylized_name>TWAB</stylized_name>` to have it display as `TWAB.Report`.
     * *Your `<host>` and your `<stylized_name>` must match exactly when converted to lowercase.*
@@ -39,7 +40,7 @@ In your pull request, add a `<report>` element below the last existing element.
     <!--  ...other elements here...  -->
 +   <report>
 +       <host>foobar</host>
-+       <stylized_name>FooBar</stylized_name> <!-- stylized_name is optional -->
++       <!-- optional: <stylized_name>FooBar</stylized_name> -->
 +       <description>
 +           A site to display sample values of FooBar in Destiny.
 +       </description>
