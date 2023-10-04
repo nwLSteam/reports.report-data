@@ -59,12 +59,6 @@
             </description>
         </report>
         <report>
-            <host>quicksilver</host>
-            <description>
-                Tracks time since the last Quicksilver Storm bug.
-            </description>
-        </report>
-        <report>
             <host>raid</host>
             <description>
                 A summary of Raid statistics for Destiny. Look up raid clears, speedruns, and sherpas.
