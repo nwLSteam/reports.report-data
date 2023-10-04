@@ -135,5 +135,11 @@
                 Shows stats on Lost Sectors, including top loadouts and player statistics.
             </description>
         </report>
+        <report>
+            <host>checkpoint</host>
+            <description>
+                24/7 checkpoint bots for popular raids and dungeons for casual and hardcore players.
+            </description>
+        </report>
     </reports>
 </data>
