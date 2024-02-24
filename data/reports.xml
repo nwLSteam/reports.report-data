@@ -59,12 +59,6 @@
             </description>
         </report>
         <report>
-            <host>quicksilver</host>
-            <description>
-                Tracks time since the last Quicksilver Storm bug.
-            </description>
-        </report>
-        <report>
             <host>raid</host>
             <description>
                 A summary of Raid statistics for Destiny. Look up raid clears, speedruns, and sherpas.
@@ -96,10 +90,10 @@
             </description>
         </report>
         <report>
-            <host>twab</host>
-            <stylized_name>TWAB</stylized_name>
+            <host>twid</host>
+            <stylized_name>TWID</stylized_name>
             <description>
-                Displays a link to the latest TWAB and offers notifications for new TWAB releases.
+                Displays a link to the latest TWID and offers notifications for new TWID releases.
             </description>
         </report>
         <report>
@@ -119,6 +113,32 @@
             <stylized_name>GM</stylized_name>
             <description>
                 Shows info about upcoming Grandmaster Nightfalls and offers GM leaderboards for past seasons.
+            </description>
+        </report>
+        <report>
+            <host>d2rotations</host>
+            <stylized_name>d2Rotations</stylized_name>
+            <description>
+                Shows various weekly and daily rotations including lost sectors, nightfalls, raid and dungeon rotators, and more.
+            </description>
+        </report>
+        <report>
+            <host>emblem</host>
+            <description>
+                Shows stats on emblem distribution among players.
+            </description>
+        </report>
+        <report>
+            <host>lostsector</host>
+            <stylized_name>LostSector</stylized_name>
+            <description>
+                Shows stats on Lost Sectors, including top loadouts and player statistics.
+            </description>
+        </report>
+        <report>
+            <host>checkpoint</host>
+            <description>
+                24/7 checkpoint bots for popular raids and dungeons for casual and hardcore players.
             </description>
         </report>
     </reports>
