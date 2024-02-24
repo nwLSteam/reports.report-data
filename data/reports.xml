@@ -40,6 +40,12 @@
             </description>
         </report>
         <report>
+            <host>loot</host>
+            <description>
+                Check what raid, dungeon and mission-related exotic weapons your clanmates are missing on Destiny 2.
+            </description>
+        </report>
+        <report>
             <host>member</host>
             <description>
                 Displays clan statistics in tables and charts.
