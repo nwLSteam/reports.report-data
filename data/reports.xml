@@ -147,5 +147,17 @@
                 24/7 checkpoint bots for popular raids and dungeons for casual and hardcore players.
             </description>
         </report>
+        <report>
+            <host>beta.pattern</host>
+            <description>
+                For looking up people's crafted weapon pattern progress in a simplistic manner.
+            </description>
+        </report>
+        <report>
+            <host>shapes</host>
+            <description>
+                Solve shape dunks for Salvation's Edge 4th (Verity) Encounter.
+            </description>
+        </report>
     </reports>
 </data>
