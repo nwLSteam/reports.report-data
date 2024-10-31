@@ -148,7 +148,7 @@
             </description>
         </report>
         <report>
-            <host>beta.pattern</host>
+            <host>pattern</host>
             <description>
                 For looking up people's crafted weapon pattern progress in a simplistic manner.
             </description>
