@@ -103,6 +103,12 @@
             </description>
         </report>
         <report>
+            <host>scorched</host>
+            <description>
+                Shows player stats and community news about the Team Scorched Crucible game mode.
+            </description>
+        </report>
+        <report>
             <host>seal</host>
             <description>
                 Shows Seal information and related Triumph data for a given player.
