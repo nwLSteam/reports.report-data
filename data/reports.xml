@@ -165,5 +165,11 @@
                 Solve shape dunks for Salvation's Edge 4th (Verity) Encounter.
             </description>
         </report>
+        <report>
+            <host>popularity</host>
+            <description>
+                Popular weapons, activities, player activity, leaderboards, and more stats from the entire history of Destiny 2.
+            </description>
+        </report>
     </reports>
 </data>
